@@ -1,0 +1,14 @@
+{
+  "name": "chrome_storage_local_problem",
+  "manifest_version": 3,
+  "version": "1.0",
+  "description": "chrome_storage_local_problem",
+  "permissions": [
+    "storage",
+    "unlimitedStorage"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
