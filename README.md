@@ -11,12 +11,13 @@ Click the Addon icon and open dev tools to show the console.
 
 The open Tab should look like this:
 
-![image]()
+![image](https://github.com/user-attachments/assets/cee90e80-973a-41d2-b9f6-1862c0ca4610)
 
 Click "Generate crash" button (it can take a few minutes until chrome crashes)
-You can see progress in the console.
+You can see progress in the console. (Each number represents 100MB)
 
-![image]()
+![image](https://github.com/user-attachments/assets/03c5a3e1-9a7a-46e5-8c80-4333e4fd2385)
+
 
 After the crash open chrome.
 
